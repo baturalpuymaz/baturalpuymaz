@@ -1,6 +1,6 @@
 # Hi 👋, I'm Baturalp Uymaz!
 
-### A Amateur Developer and Designer from Turkey 🇹🇷
+### An Amateur Developer and Designer from Turkey 🇹🇷
 
 - 🛍 I'm founder of [Bakkalım Project](https://bakkalim.app) (coming soon❕)
 
