@@ -10,9 +10,9 @@
 
 - ✉ Need to Contact Me or Help? Contact from here➡️ **baturalp@uymaz.net**
 <p>
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=baturalpuymaz&show_icons=true">
+<img align='top' src="https://github-readme-stats.vercel.app/api?username=baturalpuymaz&show_icons=true">
 
-[![Mail Badge](https://img.shields.io/badge/-ecma@gmail.com-black?style=for-the-badge&logo=gmail)](mailto:baturalpuymaz.net)
+[![Mail Badge](https://img.shields.io/badge/-baturalp@uymaz.net-black?style=for-the-badge&logo=gmail)](mailto:baturalpuymaz.net)
 [![](https://img.shields.io/badge/-instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/wbuymaz/)
 [![](https://img.shields.io/badge/-twitter-black?style=for-the-badge&logo=twitter)](https://www.twitter.com/baturalpuymaz)
 
