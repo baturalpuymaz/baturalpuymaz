@@ -1,4 +1,4 @@
-# Hello 👋, I'm Baturalp Uymaz!
+# Hello, World 👋, I'm Baturalp Uymaz!
 
 ### I'm an Amateur Software Developer and Graphic Designer based from Turkey 🇹🇷
 
