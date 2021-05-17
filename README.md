@@ -2,11 +2,7 @@
 
 ### I'm an Amateur Software Developer and Graphic Designer based from Turkey 🇹🇷
 
-- 🛍 I'm working on [Bakkalım Project](https://bakkalim.app) as Developer and Founder
-
-- ⭐ I'm also working on A Browser Extension Project as Developer
-
-- 🔭 I'm developing softwares for [my own development team](https://github.com/baturalpuymaz/codecore-web).
+- ⭐ I'm working on A Browser Extension Project as Developer
 
 - 🌱 Programming Languages that I learn right now **JavaScript, C#, PHP, Dart**
 
@@ -15,7 +11,7 @@
 <img align='top' src="https://github-readme-stats.vercel.app/api?username=baturalpuymaz&show_icons=true">
 
 [![Mail Badge](https://img.shields.io/badge/-baturalp@uymaz.net-black?style=for-the-badge&logo=gmail)](mailto:baturalpuymaz.net)
-[![](https://img.shields.io/badge/-instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/wbuymaz/)
+[![](https://img.shields.io/badge/-instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/itsbaturalp/)
 [![](https://img.shields.io/badge/-twitter-black?style=for-the-badge&logo=twitter)](https://www.twitter.com/baturalpuymaz)
 
 ---
