@@ -4,6 +4,8 @@
 
 - 🛍 I'm working on [Bakkalım Project](https://bakkalim.app) as Developer and Founder
 
+- ⭐ I'm also working on A Browser Extension Project as Developer
+
 - 🔭 I'm developing softwares for [my own development team](https://github.com/baturalpuymaz/codecore-web).
 
 - 🌱 Programming Languages that I learn right now **JavaScript, C#, PHP, Dart**
