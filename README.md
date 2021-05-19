@@ -1,6 +1,6 @@
 # Hello, World 👋, I'm Baturalp Uymaz!
 
-### I'm an Amateur Software Developer and Graphic Designer based from Turkey 🇹🇷
+### I'm an Software Developer and Graphic Designer based from Turkey 🇹🇷
 
 - ⭐ I'm working on A Browser Extension Project as Developer
 
