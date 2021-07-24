@@ -4,7 +4,7 @@
 
 - ⭐ I'm working on A Browser Extension Project as Developer
 
-- 🌱 I'm learning **GO, Powershell*
+- 🌱 I'm learning **GO, Powershell**
 
 - ✉ Need to Contact Me or Help? Contact from here➡️ **baturalp@uymaz.net**
 <p>
