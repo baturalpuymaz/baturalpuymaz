@@ -13,9 +13,3 @@
 
 [![Mail Badge](https://img.shields.io/badge/-baturalp@uymaz.net-black?style=for-the-badge&logo=gmail)](mailto:baturalpuymaz.net)
 ---
-
-<h3>Keep in touch with Me</h3>
-<div>
-  **<a href="https://linkedin.com/in/baturalpuymaz">Linkedin</a>**
-  **<a href="https://hackerrank.com/baturalpuymaz">Hackerrank</a>**
-</div>
