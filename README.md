@@ -16,4 +16,4 @@
 
 <h3>Keep in touch with Me</h3>
 <a href="https://linkedin.com/in/baturalpuymaz">Linkedin</a>
-<a href="https://hackerrank.com/baturalpuymaz>Hackerrank</a>
+<a href="https://hackerrank.com/baturalpuymaz">Hackerrank</a>
