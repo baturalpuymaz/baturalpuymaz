@@ -15,6 +15,5 @@
 ---
 
 <h3>Keep in touch with Me</h3>
-<a href="https://tr.linkedin.com/in/baturalpuymaz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="baturalpuymaz" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15281633/baturalpuymaz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="baturalpuymaz" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/baturalpuymaz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="baturalpuymaz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/baturalpuymaz">Linkedin</a>
+<a href="https://hackerrank.com/baturalpuymaz>Hackerrank</a>
