@@ -1,10 +1,10 @@
 # Hello, World! 👋, I'm **Baturalp Uymaz**!
 
-### I'm an Software Developer and Graphic Designer based from Turkey 🇹🇷
+### I'm a Computer Science, Maths and Physics student based in Ankara, Turkey!
 
-- 🌱 I'm learning **GO and Powershell**
+- 🌱 I'm learning **some of programming languages**
 
-- Personal Website **https://baturalpuymaz.vercel.app**
+- ✍️ I'm currently writing blogs on my [**Personal Website**](https://baturalpuymaz.vercel.app)
 <p>
 <img align='top' src="https://github-readme-stats.vercel.app/api?username=baturalpuymaz&show_icons=true&theme=radical"">
 
