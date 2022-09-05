@@ -1,6 +1,6 @@
 # Hello, World! 👋, I'm **Baturalp Uymaz**!
 
-![WaterFall([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://steamcommunity.com/sharedfiles/filedetails/?id=1153838168))
+![WaterFall]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://steamcommunity.com/sharedfiles/filedetails/?id=1153838168))
 
 ### Object-Oriented Programming and Java learning high-school student based in Ankara, Turkey.
 
