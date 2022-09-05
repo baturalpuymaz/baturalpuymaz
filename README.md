@@ -1,6 +1,6 @@
 # Hello, World! 👋, I'm **Baturalp Uymaz**!
 
-### OOP and Java student based in Ankara, Turkey!
+### Object-Oriented Programming and Java learning high-school student based in Ankara, Turkey!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baturalpuymaz&show_icons=true&theme=radical)
 
