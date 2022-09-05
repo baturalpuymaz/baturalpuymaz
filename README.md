@@ -1,7 +1,6 @@
 # Hello, World! 👋, I'm **Baturalp Uymaz**!
 
-![WaterFall][(https://steamcommunity.com/sharedfiles/filedetails/?id=1153838168](https://steamuserimages-a.akamaihd.net/ugc/901141693384512063/4BE12F0D2098679F283F03AFC403A89421D4964D/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false))](https://steamuserimages-a.akamaihd.net/ugc/901141693384512063/4BE12F0D2098679F283F03AFC403A89421D4964D/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
-
+![WaterFall](https://steamcommunity.com/sharedfiles/filedetails/?id=1153838168)
 ### Object-Oriented Programming and Java learning high-school student based in Ankara, Turkey.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baturalpuymaz&show_icons=true&theme=radical)
